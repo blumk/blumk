@@ -1,13 +1,23 @@
 # Hey, I'm Ken 👋
-
-Engineering leader who loves building products and the teams behind them. From 0 to 1 or scaling at speed, I'm all-in on high-performing teams and AI-first engineering.
-
-I care about the craft of engineering management: hiring well, coaching managers, and building places where people do the best work of their careers. I work hard, expect a lot, and care about the people as much as the outcomes.
-
-Engineering leadership isn't a promotion, it's a career change. I write about that messy transition over at Ken Leads, my notebook of lessons learned the hard way.
-
-**Currently open to engineering leadership roles, especially in health, hardware, or AI.** If you're building something in that space, let's talk.
-
-📓 [Ken Leads on Substack](https://kenleads.substack.com/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/kmblum/)
+ 
+Engineering leader who ships. My obsession: dragging AI development out of "vibe coding" demos and into production code that survives a real review.
+ 
+**Open to engineering leadership roles in health, hardware, or AI.** Building something there? Let's talk.
+ 
+🎮 [**Claude's Challenge**](https://www.youtube.com/@ClaudesChallenge): I make an AI agent solve Chip's Challenge, the 148-level puzzle classic.
+ 
+## Is your team still vibe coding? Try CRISP.
+ 
+Five things every prompt should hand the model. Framework via [@YagyanshB](https://github.com/YagyanshB).
+ 
+| | Step | What you provide |
+| :--: | --- | --- |
+| **C** | Context | System, tech stack, and constraints |
+| **R** | Requirements | What it must do, and the acceptance criteria |
+| **I** | Interface | Inputs, outputs, and contracts |
+| **S** | Security | Auth, validation, PII handling |
+| **P** | Performance | Latency, scale, and resources |
+ 
+---
+ 
+📓 [Ken Leads on Substack](https://kenleads.substack.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/kmblum/)
