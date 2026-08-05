@@ -2,7 +2,7 @@
  
 Engineering leader who ships. Products, the teams behind them, and the systems that keep both standing. My obsession: dragging AI development out of "vibe coding" demos and into production code that survives a real review.
  
-**Open to engineering leadership roles in health, hardware, or AI.** Building something there? Let's talk.
+Currently Head of Mobile & Web at [Agtonomy](https://agtonomy.com/), building the web and mobile experience for AI-driven automation in farm equipment.
  
 🎮 [**Claude's Challenge**](https://www.youtube.com/@ClaudesChallenge): I make an AI agent solve Chip's Challenge, the 148-level puzzle classic.
  
